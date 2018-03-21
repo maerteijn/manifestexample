@@ -1,0 +1,3 @@
+graft manifestexample
+exclude manifestexample/excluded.py
+global-exclude *.py[co] __pycache__
