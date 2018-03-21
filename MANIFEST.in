@@ -1,3 +1,4 @@
 graft manifestexample
 exclude manifestexample/excluded.py
+exclude manifestexample/excluded.txt
 global-exclude *.py[co] __pycache__
